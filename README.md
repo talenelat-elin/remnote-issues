@@ -2,9 +2,7 @@
 
 Welcome! This is RemNote's official public issue tracker.
 
-Please only submit public *bug reports* to this issue tracker:
-
-- **Bug Reports**: Submit bug reports using [our bug report template](https://github.com/remnoteio/remnote-issues/issues/new?assignees=&labels=&template=bug_report.md&title=).
+Please only submit public *bug reports* to this issue tracker using [our bug report template](https://github.com/remnoteio/remnote-issues/issues/new?assignees=&labels=&template=bug_report.md&title=).
 
 Please direct other matters to our other channels:
 
