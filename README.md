@@ -8,6 +8,6 @@ Please only submit public *bug reports* to this issue tracker:
 
 Please direct other matters to our other channels:
 
-- **Feature Requests**: To discuss feature requests, join our [Discord community](https://bit.ly/REMNOTEdiscord), and/or post in our [Reddit forum](https://www.reddit.com/r/remnote). Or, reach out on [Twitter](https://twitter.com/rem_note).
-- **Community Discussion**: Our community is very supportive! Find us on [Discord](https://bit.ly/REMNOTEdiscord), [Reddit](https://www.reddit.com/r/remnote) and/or [Twitter](https://twitter.com/rem_note).
-- **Security Issues:** Please email us directly at [support@remnote.io](https://www.notion.so/support@remnote.io); do not publicly post in this issue tracker.
+- **Feature Requests**: To discuss feature requests, join our [Discourse forum](https://forum.remnote.io) and create a Topic in the [Feature Request](support@remnote.io) category.
+- **Community Discussion**: Our community is very supportive! Find us on [Discord](https://bit.ly/REMNOTEdiscord), [Reddit](https://www.reddit.com/r/remnote) and/or reach out on[Twitter](https://twitter.com/rem_note).
+- **Security Issues:** Please email us directly at [support@remnote.io](mailto:support@remnote.io); do not publicly post in this issue tracker.
