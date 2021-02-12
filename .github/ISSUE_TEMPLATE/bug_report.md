@@ -36,3 +36,5 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+*Note*: Please contact us about account-specific issues directly at support@remnote.io.
